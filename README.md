@@ -21,7 +21,6 @@ There are a number of good reasons to avoid Evernote or consider something other
 * Source code protection
 * Money
 * Privacy Friendly
-* Open Source. Alternative to EverNote.
 * Resources(frontend, backend, enterprise)
   
 ## Alternatives to the [Evernote](https://evernote.com)
