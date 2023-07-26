@@ -31,7 +31,8 @@ There are a number of good reasons to avoid Evernote or consider something other
 * [Tiddlywiki](https://tiddlywiki.com/): TiddlyWiki, a unique non-linear notebook for capturing, organising and sharing complex information. Use it to keep your to-do list or anything.
 * [Notesnook](https://notesnook.com/): Open source, End-to-end encrypted, Private, Write notes with freedom, no spying, no tracking.
 * Dokuwiki
-* OpenNote
+* [OpenNote](https://github.com/FoxUSA/OpenNote): OpenNote was built to be an open web-based alternative to Microsoft OneNote (T) and EverNote.
+* [Noteslify](https://github.com/bytemakers/Noteslify): Your Privacy Friendly, Open Source. Alternative to EverNote.
 
 ### Web
 * [TiddlyHost](https://tiddlyhost.com/): Get your own powerful, extensible, personal wiki for free in seconds with no installation required. Make it private, public, or show it off in the Tiddlyhost Hub.
@@ -43,16 +44,13 @@ There are a number of good reasons to avoid Evernote or consider something other
 * [Notesnook mobile](https://play.google.com/store/apps/details?id=com.streetwriters.notesnook&hl=en_US): Notesnook application for Android
 
 ### Crossplataform
-- Simplenote
-- JoplinApp
-- JoplinApp
-- Tiddlywiki
-- StandardNotes
+- Simplenote: Mobile, Desktop, web.
+- JoplinApp: Mobile, Desktop, web.
+- Tiddlywiki: Mobile, desktop, web.
+- StandardNotes: Mobile, desktop, web.
 
 ## Related work
 * [Evernote-clone](https://github.com/topics/evernote-clone): This is a tiny alternative to electron
-* [OpenNote](https://github.com/FoxUSA/OpenNote): OpenNote was built to be an open web-based alternative to Microsoft OneNote (T) and EverNote.
-* [Noteslify](https://github.com/bytemakers/Noteslify): Your Privacy Friendly, Open Source. Alternative to EverNote.
 
 ## Notes
 At some point in our life, we would have taken notes.  Note taking has helped us in understanding various concepts, information and talk of the...
