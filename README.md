@@ -50,7 +50,7 @@ There are a number of good reasons to avoid Evernote or consider something other
 - StandardNotes: Mobile, desktop, web.
 
 ## Related work
-* [Evernote-clone](https://github.com/topics/evernote-clone): This is a tiny alternative to electron with version mobile, website, desktop, web.
+* [Evernote-clone](https://github.com/topics/evernote-clone): This is a tiny alternative to electron with version mobile, desktop, web.
 
 ## Notes
 At some point in our life, we would have taken notes.  Note taking has helped us in understanding various concepts, information and talk of the...
