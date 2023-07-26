@@ -43,17 +43,12 @@ There are a number of good reasons to avoid Evernote or consider something other
 * [TiddlyWiki/aTW](https://github.com/TiddlyWiki/aTW): A simple TiddlyWiki application for Android
 * [Notesnook mobile](https://play.google.com/store/apps/details?id=com.streetwriters.notesnook&hl=en_US): Notesnook application for Android
 
-### Crossplataform
-- Simplenote: Mobile, Desktop, web.
-- JoplinApp: Mobile, Desktop, web.
-- Tiddlywiki: Mobile, desktop, web.
-- StandardNotes: Mobile, desktop, web.
-
 ## Related work
 * [Evernote-clone](https://github.com/topics/evernote-clone): This is a tiny alternative to electron with version mobile, desktop, web.
 
 ## Notes
-At some point in our life, we would have taken notes.  Note taking has helped us in understanding various concepts, information and talk of the...
+1. Crossplataform: JoplinApp, StandardNotes, Tiddlywiki, SimpleNote, Notesnook.
+2. At some point in our life, we would have taken notes.  Note taking has helped us in understanding various concepts, information and talk of the...
 - [Best Evernote Alternatives](https://geekeasier.com/best-evernote-alternatives-for-iphone-or-ipad/4896/)
 - [Best Evernote Alternatives for iPhon](https://geekeasier.com/best-evernote-alternatives-for-iphone-or-ipad/4896/)
 - [Best Evernote Alternatives for iPad](https://geekeasier.com/best-evernote-alternatives-for-iphone-or-ipad/4896/)
